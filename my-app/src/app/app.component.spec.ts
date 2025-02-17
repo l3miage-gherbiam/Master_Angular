@@ -6,6 +6,10 @@ describe('AppComponent', () => {
     await TestBed.configureTestingModule({
       imports: [AppComponent],
     }).compileComponents();
+
+
+
+    
   });
 
   it('should create the app', () => {
